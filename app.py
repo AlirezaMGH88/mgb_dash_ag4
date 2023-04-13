@@ -30,7 +30,7 @@ import base64
 from codes.create_graphs import create_current_graphs, pat_glance_info
 
 
-#### FIXUS BEGINS
+#### FIXUS BEGINS 
 PATHS = {
     'images': os.path.join('images'),
 
